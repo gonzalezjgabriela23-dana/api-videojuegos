@@ -20,4 +20,4 @@ const games = [
     }
 ];
 
-module.exports = games;
+export default games;
